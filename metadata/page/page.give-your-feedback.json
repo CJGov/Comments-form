@@ -1,0 +1,14 @@
+{
+  "_id": "page.give-your-feedback",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.give-your-feedback--textarea.auto_name__2",
+      "_type": "textarea",
+      "hint": "Give as much detail as you can, including dates if you know them",
+      "label": "Please give us your comments",
+      "name": "auto_name__2"
+    }
+  ],
+  "url": "give-your-feedback"
+}

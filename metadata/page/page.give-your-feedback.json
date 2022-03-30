@@ -6,7 +6,7 @@
       "_id": "page.give-your-feedback--textarea.auto_name__2",
       "_type": "textarea",
       "hint": "Give as much detail as you can, including dates if you know them",
-      "label": "Please give us your comments",
+      "label": "Please give us your feedback",
       "name": "auto_name__2"
     }
   ],

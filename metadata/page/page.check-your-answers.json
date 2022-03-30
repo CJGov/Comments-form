@@ -1,5 +1,8 @@
 {
   "_id": "page.check-your-answers",
   "_type": "page.summary",
+  "actionType": "saveContinue",
+  "sendBody": "to send this feedback please click the button bellow",
+  "sendHeading": "Send us your feedback",
   "url": "check-your-answers"
 }

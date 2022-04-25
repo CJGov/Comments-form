@@ -7,7 +7,7 @@
       "_type": "textarea",
       "hint": "Give as much detail as you can, including dates if you know them",
       "label": "Please give us your feedback",
-      "name": "auto_name__2"
+      "name": "feedback_details"
     }
   ],
   "url": "give-your-feedback"

@@ -5235,7 +5235,7 @@
         }
       ],
       "label": "Which part of HMCTS were you in contact with?",
-      "name": "auto_name__3"
+      "name": "contact_location"
     },
     {
       "_id": "page.which-contact-with--fieldset",

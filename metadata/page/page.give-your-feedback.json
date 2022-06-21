@@ -6,7 +6,9 @@
       "_id": "page.give-your-feedback--textarea.auto_name__2",
       "_type": "textarea",
       "hint": "Give as much detail as you can, including dates if you know them",
+      "hint:cy": "Rhowch gymaint o fanylion ag y gallwch, gan gynnwys dyddiadau os ydych yn eu cofio",
       "label": "Please give us your feedback",
+      "label:cy": "Rhowch eich adborth i ni",
       "name": "feedback_details"
     }
   ],

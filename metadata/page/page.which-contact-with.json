@@ -5235,6 +5235,7 @@
         }
       ],
       "label": "Which part of HMCTS were you in contact with?",
+      "label:cy": "Pa ran o GLlTEM oeddech chi mewn cysylltiad â hi?",
       "name": "contact_location"
     },
     {
@@ -5245,7 +5246,8 @@
           "_id": "page.which-contact-with--fieldset--details",
           "_type": "details",
           "html": "If you cannot remember which part of HMCTS you were in contact with,  please use [\"Find a court or tribunal\"](https://courttribunalfinder.service.gov.uk/search/) to find out their information. ",
-          "summary": "Can't remember"
+          "summary": "Can't remember",
+          "summary:cy": "Ddim yn cofio"
         }
       ]
     }

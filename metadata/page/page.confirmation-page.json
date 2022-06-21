@@ -2,7 +2,10 @@
   "_id": "page.confirmation-page",
   "_type": "page.confirmation",
   "body": "We will not write back to you but we'll share your feedback with our staff. \r\n\r\nHMCTS",
+  "body:cy": "Ni fyddwn yn ysgrifennu'n ôl atoch ond byddwn yn rhannu eich adborth gyda'n staff. \r\n\r\nHMCTS",
   "heading": "Thank you",
+  "heading:cy": "Diolch",
   "lede": "For your feedback",
+  "lede:cy": "am eich adborth",
   "url": "confirmation-page"
 }

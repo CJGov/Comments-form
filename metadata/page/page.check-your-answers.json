@@ -1,5 +1,6 @@
 {
   "_id": "page.check-your-answers",
+  "_id:cy": "Gwiriwch eich atebion",
   "_type": "page.summary",
   "actionType": "saveContinue",
   "sendBody": "to send this feedback please click the button below",

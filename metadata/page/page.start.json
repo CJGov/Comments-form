@@ -1,7 +1,7 @@
 {
   "_id": "page.start",
   "_type": "page.start",
-  "body": "Tell us what we can improve\r\n\r\nWe want to know about your experience with HMCTS.\r\n\r\nYour feedback will not affect your case.\r\n\r\nWe will not write back to you, but we'd like to hear if we can improve so we can do better\r\n\r\nThis online form is also available in [Welsh (Cymraeg)](https://comments-form.form.service.justice.gov.uk/cy).",
+  "body": "Tell us what we can improve\r\n\r\nWe want to know about your experience with HMCTS.\r\n\r\nYour feedback will not affect your case.\r\n\r\nWe will not write back to you, but we'd like to hear if we can improve so we can do better\r\n\r\nThis online form is also available in [Welsh (Cymraeg)](../cy).",
   "body:cy": "Dywedwch wrthym beth allwn ni ei wella\r\n\r\nRydym eisiau gwybod am eich profiad gyda GLlTEM.\r\n\r\nNi fydd eich adborth yn effeithio ar eich achos.\r\n\r\nNi fyddwn yn ysgrifennu’n ôl atoch, ond hoffem glywed gennych a allwn ni wneud yn well.",
   "heading": "Give Feedback",
   "heading:cy": "Rhoi adborth",

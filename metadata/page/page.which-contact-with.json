@@ -6,7 +6,7 @@
       "_id": "page.which-contact-with--autocomplete.auto_name__3",
       "_type": "autocomplete",
       "hint": "For example, Barnet County Court",
-      "hint:cy": "Er enghraifft, Llys Sirol Barnet",
+      "hint:cy": "Er enghraifft, Barnet County Court",
       "items": [
         {
           "$component": true,

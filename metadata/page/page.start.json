@@ -7,10 +7,7 @@
   "heading:cy": "Rhoi adborth",
   "lede": "",
   "steps": [
-    "page.which-contact-with",
-    "page.give-your-feedback",
-    "page.check-your-answers",
-    "page.confirmation-page"
+
   ],
   "url": "/"
 }
